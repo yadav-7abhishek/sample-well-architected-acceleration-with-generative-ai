@@ -1,4 +1,4 @@
-# Sample AWS Well-Architected Review (WAFR) Acceleration with Generative AI (GenAI)
+# Sample AWS Well-Architected Framework Review (WAFR) Acceleration with Generative AI (GenAI)
 
 ## Name
 
